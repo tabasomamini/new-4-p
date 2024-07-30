@@ -16,7 +16,7 @@
     height: 150vh;
     background-image:linear-gradient(to right bottom,rgb(159, 225, 26),rgb(206, 235, 149)) ;
 }.book{
-    width: 70%;
+    width: 60%;
     height: 60%;
     background-image: linear-gradient(410deg,rgba(255,255,255,0.9)0%,
     rgba(255,255,255,0.9)55%,transparent 50%),
